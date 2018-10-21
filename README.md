@@ -18,3 +18,7 @@ The api uses the following structure
 Jonathan Cervantes – jhonncerv@gmail.com
 
 [https://github.com/jhonncerv](https://github.com/jhonncerv)
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
